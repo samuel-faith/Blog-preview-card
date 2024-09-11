@@ -3,12 +3,12 @@
 This is my solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
 
-![](./solution.png)
+![](./solution.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/samuel-faith/blog-preview-card-main)
-- Live Site URL: [Add live site URL here](https://samuel-faith.github.io/blog-preview-card-main/)
+- Solution URL: [Add solution URL here](https://github.com/samuel-faith/Blog-preview-card)
+- Live Site URL: [Add live site URL here](https://samuel-faith.github.io/Blog-preview-card/)
 
 ## My process
 
