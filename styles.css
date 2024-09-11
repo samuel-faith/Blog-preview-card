@@ -84,6 +84,11 @@ h3:hover {
      color: #121212;
  }
 
+ .profile img {
+    width: 100px;
+    height: 100px;
+ }
+
 .attribution { 
     margin-top: 2rem;
     font-size: 11px; 
