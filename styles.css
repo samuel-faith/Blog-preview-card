@@ -1,0 +1,102 @@
+* {
+    font-family: "Figtree", sans-serif;
+    box-sizing: content-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f4d04e;
+}
+
+.container {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    width: 23rem;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 6.37rem;
+    border-radius: .75rem;
+    border: .02rem solid black;
+    box-shadow: .3rem .3rem black;
+}
+
+.container > div {
+    padding: 1rem;
+}
+
+.img-container {
+    text-align: center;
+}
+
+.img-container > img {
+    max-width: 100%;
+    border-radius: 1rem;
+    margin-bottom: 1rem;
+}
+
+.learning {
+    width: 60px;
+    padding: .5rem;
+    margin-bottom: .5rem;
+    border-radius: .2rem;
+    background-color: #f4d04e;
+    font-size: .8rem;
+    color: #121212;
+    font-weight: 900;
+    text-align: center;
+}
+
+h2 {
+    font-size: .78rem;
+    color:#121212;
+    padding: .5rem 0 1rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+    font-weight:900;
+    padding: 0 0 1rem;
+}
+
+h3:hover {
+    color: #f4d04e;
+}
+
+.items p {
+    color: #6b6b6b;
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+.profile {
+    display: flex;
+    justify-content: flex-start;
+    padding: 1.5rem 0 0;
+}
+
+.profile p { 
+     padding: 1.5rem 1.5rem .2rem 1rem;
+     font-weight:900;
+     font-size: 1rem;
+     color: #121212;
+ }
+
+.attribution { 
+    margin-top: 2rem;
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+@media screen and (max-width: 375px) {
+    .container {
+        width: 90%;
+        max-width: 37.5rem;
+        height: 32rem;
+    } 
+}
